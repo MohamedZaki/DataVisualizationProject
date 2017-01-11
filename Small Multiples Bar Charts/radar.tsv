@@ -1,0 +1,49 @@
+group	carac	value
+cluster1	Taille du bilan	0.6
+cluster1	Total des depots	0.47
+cluster1	Capitaux propres	0.10
+cluster1	Total du credit	0.51
+cluster1	Credit conso	0.04
+cluster1	Credit habitat	0.23
+cluster1	Credit snf	0.41
+cluster1	Credit bail snf	0.05
+cluster1	Credit Bail particulier	0
+cluster1	Actif Titres	0.11
+cluster1	Actif interbancaire	0.27
+cluster1	Passif interbancaire	0.32
+cluster2	Taille du bilan	0.48
+cluster2	Total des depots	0.18
+cluster2	Capitaux propres	0.12
+cluster2	Total du credit	0.63
+cluster2	Credit conso	0.71
+cluster2	Credit habitat	0.02
+cluster2	Credit snf	0.07
+cluster2	Credit bail snf	0.05
+cluster2	Credit Bail particulier	0.17
+cluster2	Actif Titres	0.07
+cluster2	Actif interbancaire	0.18
+cluster2	Passif interbancaire	0.59
+cluster3	Taille du bilan	0.32
+cluster3	Total des depots	0.1
+cluster3	Capitaux propres	0.45
+cluster3	Total du credit	0.07
+cluster3	Credit conso	0
+cluster3	Credit habitat	0.03
+cluster3	Credit snf	0
+cluster3	Credit bail snf	0
+cluster3	Credit Bail particulier	0
+cluster3	Actif Titres	0.36
+cluster3	Actif interbancaire	0.46
+cluster3	Passif interbancaire	0.11
+cluster4	Taille du bilan	0.47
+cluster4	Total des depots	0.18
+cluster4	Capitaux propres	0.13
+cluster4	Total du credit	0.68
+cluster4	Credit conso	0
+cluster4	Credit habitat	0
+cluster4	Credit snf	0.05
+cluster4	Credit bail snf	0.85
+cluster4	Credit Bail particulier	0.06
+cluster4	Actif Titres	0.03
+cluster4	Actif interbancaire	0.08
+cluster4	Passif interbancaire	0.64
